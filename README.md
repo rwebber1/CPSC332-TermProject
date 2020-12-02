@@ -25,3 +25,4 @@ Will be prompted for password, same as shell password
 ______________________________________________________________________________________________________________________
 ### Homepage:
 Website hosted through CSUF and can be found through URL above
+https://github.com/rwebber1/CPSC332-TermProject/blob/main/Screenshots/homepage.jpeg
