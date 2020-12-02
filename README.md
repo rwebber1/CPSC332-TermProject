@@ -4,8 +4,10 @@ Final Project for Databases and File Systems course at CSUF
 
 ## Queries:
 Several areas for user input are setup on website application. Each is connected to a PHP file to query the database automatically when user input is entered. Screenshots of example inputs can be found in 'Screenshots' folder.
+#### Professor Queries:
 * Enter Professor SSN       -> List Courses he/her teaches
 * Enter Course and Section  -> List Students and Grades
+#### Student Queries
 * Enter Course              -> List Section Details
 * Enter Student ID          -> List Enrolled Courses
 
@@ -19,6 +21,7 @@ Server is hosted through CSUF
 To Access: Enter ssh cs332t32@shell.ecs.fullerton.edu into terminal (PuTTY was used in this project) 
   * Login: cs332f40
   * Password: iuw1Guud
+  
 To Enter Database (Mariadb): Enter mysql -h mariadb -u cs332t32 -p
 Will be prompted for password, same as shell password
   
