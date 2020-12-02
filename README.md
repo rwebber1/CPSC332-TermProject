@@ -1,6 +1,11 @@
 # CPSC332-TermProject
-Final Project for Databases and File Systems course at CSUF
-- Built website MySQL database application using PHP. 
+*Final Project for Databases and File Systems course at CSUF
+Project Description: MySQL database website application using PHP
+#### Tools Used:
+* PuTTY
+* PHP
+* MySQL
+* HTML/CSS
 
 ## Queries:
 Several areas for user input are setup on website application. Each is connected to a PHP file to query the database automatically when user input is entered. Screenshots of example inputs can be found in 'Screenshots' folder.
