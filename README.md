@@ -1,6 +1,6 @@
 # CPSC332-TermProject
 *Final Project for Databases and File Systems course at CSUF
-Project Description: MySQL database website application using PHP
+Project Description: MySQL database website application using PHP*
 #### Tools Used:
 * PuTTY
 * PHP
