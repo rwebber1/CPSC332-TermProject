@@ -23,7 +23,8 @@ To Access: Enter ssh cs332t32@shell.ecs.fullerton.edu into terminal (PuTTY was u
   * Password: iuw1Guud
   
 To Enter Database (Mariadb): Enter mysql -h mariadb -u cs332t32 -p
-Will be prompted for password, same as shell password
+
+(Will be prompted for password, same as shell password)
   
 ______________________________________________________________________________________________________________________
 ### Homepage:
