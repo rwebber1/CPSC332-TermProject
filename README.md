@@ -35,3 +35,6 @@ ________________________________________________________________________________
 ### Homepage:
 Website hosted through CSUF and can be found through URL above
 ![Homepage](https://github.com/rwebber1/CPSC332-TermProject/blob/main/Screenshots/homepage.jpeg?raw=true)
+#### Professor Query Example:
+*Input entered: 123456789*
+![examplequery](https://github.com/rwebber1/CPSC332-TermProject/blob/main/Screenshots/p_ssn_query_result.jpeg?raw=true)
